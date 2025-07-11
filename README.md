@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RaviRaj Jariwala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **React Native,Docker,**
+- 🌱 I’m currently learning **Go,**
 
 - 💬 Ask me about **react, next.js, gatsby.js,**
 
