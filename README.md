@@ -23,6 +23,7 @@
 ### 🛠️ Recent work
 
 - **Sports data & commercial intelligence SaaS** — Product Owner and lead UI engineer on a platform used by Premier League clubs and other sports organisations (React, Next.js, TypeScript, Hasura, PostgreSQL, AWS).
+- **NEVE — Laboratory Information Management System (LIMS)** — built from scratch, first solo and then leading a two-person team. Now used company-wide, with compliance-ready audit trails, sample and workflow tracking, and role-based access.
 - **Media Hub** — file and asset management service on PostgreSQL + Hasura.
 - **Marketing sites** — design-to-code builds with Gatsby / Next.js, focused on performance and SEO.
 
@@ -61,12 +62,3 @@ React · Next.js · TypeScript · Node.js · GraphQL / Hasura · PostgreSQL · G
 </p>
 
 **Data visualisation:** D3.js · Chart.js
-
----
-
-### 📊 GitHub stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ravijari&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravijari&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
